@@ -4,7 +4,7 @@
 
 Please see ***train_and_test.py*** for model implementation in Python.
 
-Please see the handout for full details on the project and model.
+Please see the ***project_handout.pdf*** for full details on the project and model.
 
 ## Building Line-level Defect Detection Models
 
