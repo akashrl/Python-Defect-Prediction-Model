@@ -8,7 +8,7 @@ Please see the ***project_handout.pdf*** for full details on the project and mod
 
 ## Building Line-level Defect Detection Models
 
-In this project, we have built a defect prediction model for software source code from scratch. You are required to apply deep-learning techniques, e.g., classification, tokenization, embedding, etc., to build more accurate prediction models with the dataset provided.
+In this project, we have built a defect prediction model for software source code from scratch. We were required to apply deep-learning techniques, e.g., classification, tokenization, embedding, etc., to build more accurate prediction models with the dataset provided.
 
 ### Background
 
