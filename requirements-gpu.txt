@@ -40,6 +40,6 @@ tensorflow-gpu==2.0.0
 tensorflow-metadata==0.15.0
 termcolor==1.1.0
 tqdm==4.36.1
-urllib3==1.25.6
+urllib3==1.26.5
 Werkzeug==0.16.0
 
